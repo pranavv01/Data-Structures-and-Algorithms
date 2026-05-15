@@ -1,7 +1,7 @@
 import java.util.ArrayList; 
 import java.util.List;
 
-// here children is variable 
+
  class Node {
     int data;
     List<Node> children;
